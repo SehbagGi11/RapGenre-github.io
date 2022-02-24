@@ -5,18 +5,14 @@
 }
  #main{
    width: 100%;
-   height: 100vh
-   backround: url(Rap.jpg) no-repeat center center fixed;
-   -webkit-backround-size:cover;
-   -moz-backround-size:cover;
-   -o-backround-size:cover;
-   backround-size:cover;
+   height: 100vh;
+   
 }
 nav{
   width: 100%;
   height:80px;
   background-color: #000000;
-  line-height: 200px;
+  line-height: 80px;
 }
 .logo{
   color: #fff;
