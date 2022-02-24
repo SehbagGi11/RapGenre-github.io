@@ -19,11 +19,11 @@ nav{
   padding-left: 30px;
   position: absolute;
   font-size: 30pt;
-  font-style: italic;
+  font-style: sans-serif;
 
 }
 nav ul{
-  float; right;
+  float: right;
   margin-right: 20px;
 }
 nav ul li{
