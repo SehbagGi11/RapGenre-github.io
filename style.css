@@ -48,9 +48,6 @@ footer{
   line-height: 80px;
 }
 .container{
-  position:fixed;
-   bottom:0px;
-   left:50%;
   background: #fcffb7;
   border-radius: 10px;
   max-width: 300px;
@@ -78,3 +75,7 @@ url("http://9jaflaver.com/wp-content/uploads/2016/03/ac6e5981100beb736f2a981560d
 body{
   background-color: #fcd753;
 }
+   .sub_div {
+             position: absolute;
+             bottom: 0px;
+         }
