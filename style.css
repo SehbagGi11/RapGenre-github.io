@@ -48,9 +48,12 @@ footer{
   line-height: 80px;
 }
 .container{
+  position:fixed;
+   bottom:0px;
+   left:50%;
   background: #fcffb7;
   border-radius: 10px;
-  max-width: 900px;
+  max-width: 300px;
 }
 
   #banner{
