@@ -49,8 +49,28 @@ footer{
   background-color:black ;
   line-height: 80px;
 }
-.main {
-        width: 50%;
-        float: left;
-        padding: 15px;
-        background-color: mediumturquoise
+.container{
+  background: #fcffb7;
+  border-radius: 10px;
+  max-width: 900px;
+}
+
+  #banner{
+  height: 400px;
+  max-width: 900px;
+  background:
+url("http://9jaflaver.com/wp-content/uploads/2016/03/ac6e5981100beb736f2a981560d8cfb8.png");
+  background-position: center;
+  background-size: cover;
+  border-style: solid;
+  border-size: 3px;
+  border-color: white;
+  border-radius: 3px;
+  margin: 10px 0px;
+}
+#rap{
+  padding: 5px 10px;
+  border-style: solid;
+  border: 3px solid white;
+  margin-bottom: 10px;
+}
