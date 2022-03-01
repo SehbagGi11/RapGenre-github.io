@@ -50,32 +50,43 @@ footer{
 .container{
   background: #fcffb7;
   border-radius: 10px;
-  max-width: 300px;
-}
-
-  #banner{
-  height: 400px;
   max-width: 900px;
-  background:
-url("http://9jaflaver.com/wp-content/uploads/2016/03/ac6e5981100beb736f2a981560d8cfb8.png");
-  background-position: center;
-  background-size: cover;
-  border-style: solid;
-  border-width: : 3px;
-  border-color: white;
-  border-radius: 3px;
-  margin: 10px 0px;
-}
-#rap{
-  padding: 5px 10px;
-  border-style: solid;
-  border: 3px solid white;
-  margin-bottom: 10px;
 }
 body{
-  background-color: #fcd753;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
-   .sub_div {
-             position: absolute;
-             bottom: 0px;
+
+.container{
+  position: relative;
+  width: 1200px;
+  height: 300px;
+  margin: 240px;
+}
+
+.container .box{
+  position: relative;
+  width: calc(400px - 30px);
+  height: calc(300px - 30px);
+  background: #000;
+  float: left;
+  margin: 15px;
+  box-sizing: border-box;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+
+
+
+
+}
+
+
+
+
+}
+
+
          }
