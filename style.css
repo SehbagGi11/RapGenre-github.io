@@ -47,10 +47,6 @@ footer{
   background-color:black ;
   line-height: 80px;
 }
-.container{
-  background: #fcffb7;
-  border-radius: 10px;
-  max-width: 900px;
 }
 body{
   margin: 0;
