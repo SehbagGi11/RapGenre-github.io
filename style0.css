@@ -5,7 +5,7 @@
   margin: 0;
   padding: 0;
 }
-
+/*Body which contains the space of the middle area of the website, it holds the image and description me  */
 body {
   font-family: 'Poppins', sans-serif;
   font-size: 16px;
@@ -13,7 +13,7 @@ body {
   color: #333;
   background: #980000;
 }
-
+/* These are the specifcations of the images size and border */
 img {
   max-width: 50%;
   border: 3px solid firebrick;
@@ -33,7 +33,7 @@ ul {
   margin: 0 auto;
   padding: 0 30px;
 }
-
+/* The navbar is the upper part of the website that is composed of hyperlinks and hovering effects */
 .navbar {
   background: firebrick;
   color: #fff;
@@ -97,7 +97,7 @@ ul {
   display: flex;
   justify-content: space-between;
 }
-
+/* The box is the colour and size as well as the shadow that is on the box. */
 .box {
   flex: 1;
   background: #580000;
