@@ -16,7 +16,7 @@ body {
 /* These are the specifcations of the images size and border */
 img {
   max-width: 50%;
-  border: 3px solid firebrick;
+  border: 5px solid firebrick;
 }
 
 h1,
